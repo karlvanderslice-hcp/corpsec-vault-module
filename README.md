@@ -1,4 +1,4 @@
-# corpsec-vault-module
+# Corpsec Vault Module
 A Terraform module for Vault. This module will:
 
   1. Configure `$CORPSEC_VAULT` for a given team or application name
